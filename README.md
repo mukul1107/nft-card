@@ -22,13 +22,13 @@ Users should be able to:
 
 ### Screenshot
 
-![Check Here](screenshot/)
+![Check Here](screenshot/page-preview.jpeg)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Site Code](https://github.com/mukul1107/nft-card)
+- Live Site URL: [NFT-Preview](https://mukul1107.github.io/nft-card/)
 
 
 ### Built with
@@ -39,7 +39,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@clayEnkidu](https://www.frontendmentor.io/profile/clayEnkidu)
 - Twitter - [@mukulownsyou](https://www.twitter.com/mukulownsyou)
-
+- Instagram - [@mukulownsyou](https://www.instagram.com/mukulownsyou)
