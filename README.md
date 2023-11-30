@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Check Here](screenshot/page-preview.jpeg)
+![Check Here](screenshot/page-preview.jpeg "Live Preview")
 
 
 ### Links
